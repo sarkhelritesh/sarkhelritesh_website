@@ -20,7 +20,8 @@ darkmode: false
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-
+twitter_username: sarkhelritesh
+linkedin_username: https://www.linkedin.com/in/ritesh-sarkhel-02525748/
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -36,9 +37,6 @@ additional_links:
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
 
-linkedin_username: https://www.linkedin.com/in/ritesh-sarkhel-02525748/
-twitter_username: sarkhelritesh
-
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
@@ -49,13 +47,7 @@ twitter_username: sarkhelritesh
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+I am a fourth-year PhD student at the Department of Computer Science and Engineering of <a href="https://cse.osu.edu/" target="_blank"><font color="#990000">The Ohio State University</font></a>. My research interests include Information Extraction, Document Intelligence, Pattern Recogntion and Text Mining. I am working in the <a href="http://interact.osu.edu/" target="_blank"><font color="#990000">Interactive Data Systems Lab</font></a> with <a href="http://arnab.org/" target="_blank"><font color="#990000">Prof. Arnab Nandi</font></a>.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

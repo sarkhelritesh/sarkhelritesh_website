@@ -1,54 +1,58 @@
 # Site
-repository: sarkhelritesh/sarkhelritesh.github.io
-#url: https://sarkhelritesh.github.io
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Ritesh Sarkhel
-title: PhD Student
-email: sarkhel.5@osu.edu
-#phone: Your phone number (optional)
-website: web.cse.ohio-state.edu/~sarkhel.5
+name: Your Name
+title: Your job title
+email: Your email (optional)
+phone: Your phone number (optional)
+website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
-
-#github_username:  sarkhelritesh
-#stackoverflow_username: "00000001"
-#dribbble_username: jekyll
-#facebook_username: jekyll
-#flickr_username: jekyll
-#instagram_username: jekyll
-twitter_username: sarkhelritesh
-linkedin_username: https://www.linkedin.com/in/ritesh-sarkhel-02525748/
-#xing_username: jekyll
-#pinterest_username: jekyll
-#youtube_username: jekyll
-googleplus_username: https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en
-#orcid_username: 0000-0000-0000-0000
+twitter_username: jekyllrb
+github_username:  jekyll
+stackoverflow_username: "00000001"
+dribbble_username: jekyll
+facebook_username: jekyll
+flickr_username: jekyll
+instagram_username: jekyll
+linkedin_username: jekyll
+xing_username: jekyll
+pinterest_username: jekyll
+youtube_username: jekyll
+googleplus_username: +jekyll
+orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
-#- title: Google Scholar
-#  icon: fa-graduation-cap
-#  url: https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en
+additional_links:
+- title: Link name
+  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
- #gtm: "GTM-0000000"
- #gtag: "UA-165274113-1"
- google_analytics: "UA-165274113-1"
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
 
 # About Section
-about_title: About Me
+# about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-Hello, I am a fourth-year PhD student at the Department of Computer Science and Engineering of <a href="https://cse.osu.edu/" target="_blank"><font color="#990000">The Ohio State University</font></a>. My research interests include Information Extraction, Document Intelligence, Pattern Recogntion and Text Mining. I am working in the <a href="http://interact.osu.edu/" target="_blank"><font color="#990000">Interactive Data Systems Lab</font></a> with <a href="http://arnab.org/" target="_blank"><font color="#990000">Prof. Arnab Nandi</font></a>.
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+    - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -67,7 +71,7 @@ more_content: | # this will include new lines to allow paragraphs
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)

@@ -30,7 +30,7 @@ linkedin_username: https://www.linkedin.com/in/ritesh-sarkhel-02525748/
 # Additional icon links
 additional_links:
 - title: Google Scholar Link
-  icon: fa-graduation-caps
+  icon: fa-graduation-cap
   url: https://google.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)

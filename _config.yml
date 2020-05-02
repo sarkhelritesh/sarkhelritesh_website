@@ -16,16 +16,16 @@ darkmode: false
 twitter_username: sarkhelritesh
 github_username:  sarkhelritesh
 #stackoverflow_username: "00000001"
-#dribbble_username: jekyll
+dribbble_username: jekyll
 #facebook_username: jekyll
-#flickr_username: jekyll
+flickr_username: jekyll
 #instagram_username: jekyll
 linkedin_username: https://www.linkedin.com/in/ritesh-sarkhel-02525748/
-#xing_username: jekyll
+xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
-#orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:

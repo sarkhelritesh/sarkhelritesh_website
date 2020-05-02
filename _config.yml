@@ -46,9 +46,9 @@ google_analytics: "UA-165274113-1"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/ritesh.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello ! I am a PhD student in the Department of Computer Science and Engineering at <a href="https://cse.osu.edu"><mark>The Ohio State University</mark></a>. I work with <a href="http://arnab.org"><mark>Prof. Arnab Nandi</mark></a> in the Interactive Data Systems Laboratory.
+  Hello! I am a PhD student in the Department of Computer Science and Engineering at <a href="https://cse.osu.edu"><mark>The Ohio State University</mark></a>. I work with <a href="http://arnab.org"><mark>Prof. Arnab Nandi</mark></a> in the Interactive Data Systems Laboratory.
   
-  I worry about data-driven intelligent interactive systems. My research areas include problems related to Information Extraction, Document Intelligence, and Text Mining.
+  I worry about building intelligent interactive systems. My current research focus include problems related to Information Extraction, Document Intelligence, and Text Mining.
   
 
 # Projects Section

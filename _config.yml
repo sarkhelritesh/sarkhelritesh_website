@@ -44,10 +44,10 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: About Me
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-I am a fourth-year PhD student at the Department of Computer Science and Engineering of <a href="https://cse.osu.edu/" target="_blank"><font color="#990000">The Ohio State University</font></a>. My research interests include Information Extraction, Document Intelligence, Pattern Recogntion and Text Mining. I am working in the <a href="http://interact.osu.edu/" target="_blank"><font color="#990000">Interactive Data Systems Lab</font></a> with <a href="http://arnab.org/" target="_blank"><font color="#990000">Prof. Arnab Nandi</font></a>.
+Hello, I am a fourth-year PhD student at the Department of Computer Science and Engineering of <a href="https://cse.osu.edu/" target="_blank"><font color="#990000">The Ohio State University</font></a>. My research interests include Information Extraction, Document Intelligence, Pattern Recogntion and Text Mining. I am working in the <a href="http://interact.osu.edu/" target="_blank"><font color="#990000">Interactive Data Systems Lab</font></a> with <a href="http://arnab.org/" target="_blank"><font color="#990000">Prof. Arnab Nandi</font></a>.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -66,7 +66,7 @@ more_content: | # this will include new lines to allow paragraphs
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)

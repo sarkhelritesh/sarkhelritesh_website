@@ -39,9 +39,9 @@ googleplus_username: https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=e
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+ #gtm: "GTM-0000000"
+ #gtag: "UA-165274113-1"
+ google_analytics: "UA-165274113-1"
 
 # About Section
 about_title: About Me

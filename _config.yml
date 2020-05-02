@@ -46,7 +46,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Ritesh is a PhD student at the department of Computer Science and Engineering at <mark>The Ohio State University</mark>(https://cse.osu.edu). His research interests include Information Extraction, Document Understanding, and Text Mining. He has been working in the Interactive Data Systems Lab with <mark>Arnab Nandi</mark>(http://arnab.org/).
+  Hello ! I am a PhD student in the department of Computer Science and Engineering at <a href="https://cse.osu.edu">The Ohio State University</a>. My primary research interests include Information Extraction, Document Intelligence, and Text Mining. I am working in the Interactive Data Systems Lab with <a href="http://arnab.org"><mark>Arnab Nandi</mark></a>.
   
 
 # Projects Section

@@ -30,7 +30,7 @@ linkedin_username: https://www.linkedin.com/in/ritesh-sarkhel-02525748/
 # Additional icon links
 additional_links:
 - title: Google Scholar Link
-  icon: fa-graduation-cap
+  icon: fa-google
   url: https://google.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -46,13 +46,8 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  Ritesh is a PhD student at the department of Computer Science and Engineering at <mark>The Ohio State University</mark>(https://cse.osu.edu). His research interests include Information Extraction, Document Understanding, and Text Mining. He has been working in the Interactive Data Systems Lab with <mark>Arnab Nandi</mark>(http://arnab.org/).
+  
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

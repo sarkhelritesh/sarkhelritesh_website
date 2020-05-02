@@ -44,7 +44,7 @@ google_analytics: "UA-165274113-1"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: assets/display_landing.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello ! I am a PhD student in the Department of Computer Science and Engineering at <a href="https://cse.osu.edu"><mark>The Ohio State University</mark></a>. My primary research interests include Information Extraction, Document Intelligence, and Text Mining. I am working in the Interactive Data Systems Lab with <a href="http://arnab.org"><mark>Prof. Arnab Nandi</mark></a>.
   

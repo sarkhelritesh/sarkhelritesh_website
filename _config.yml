@@ -10,7 +10,7 @@ email: sarkhel.5@osu.edu
 website: web.cse.ohio-state.edu/~sarkhel.5
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 twitter_username: jekyllrb

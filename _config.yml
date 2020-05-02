@@ -30,7 +30,7 @@ linkedin_username: https://www.linkedin.com/in/ritesh-sarkhel-02525748/
 # Additional icon links
 additional_links:
 - title: Google Scholar
-  icon: https://img.icons8.com/ios-filled/50/000000/google-scholar--v2.png
+  icon: _test/images/icons8-google-scholar-75.png
   url: https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)

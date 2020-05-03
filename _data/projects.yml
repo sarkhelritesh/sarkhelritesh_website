@@ -4,6 +4,8 @@
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: 
     <img src="assets/laddernet_workflow.jpg" alt="Laddernet Workflow" width="500" height="190" style="align:center">
-  description: A visually rich document refers to a structured or semi-structured document where visual features play an important role in semantics. We propose a fast, multi-scale classifier for such documents. For fast inference, we define an attention-like operator that extracts visual features from a hierarchical abstraction defined using the layout hierarchy of each document. Discriminative features are extracted using a depth-separable convolutional network leveraging this hierarchical construct. We obtained state-of-the-art results on four publicly available datasets. 
+  description: A visually rich document refers to a structured or semi-structured document where visual features play an important role in semantics. We propose a fast, multi-scale classifier for such documents. For fast inference, we define an attention-like operator that extracts visual features from a hierarchical abstraction defined using the layout hierarchy of each document. Discriminative features are extracted using a depth-separable convolutional network leveraging this hierarchical construct. We obtained state-of-the-art results on four publicly available datasets.<br/>
+  
+  <b>Ritesh Sarkhel</b>
   
  

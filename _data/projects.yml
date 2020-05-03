@@ -1,5 +1,5 @@
 # Project template
-- layout: left
+- layout: left-middle
   name: Visual Segmentation for Information Extraction from Heterogeneous Visually Rich Documents 
   link: assets/segment_select.pdf
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)

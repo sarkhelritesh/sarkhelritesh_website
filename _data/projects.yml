@@ -2,7 +2,9 @@
   name: Deterministic Routing between Layout Abstractions for Multi-Scale classification <br/> of Visually Rich Documents
   #link: <a href="www.researchgate.net/publication/333859687_Visual_Segmentation_for_Information_Extraction_from_Heterogeneous_Visually_Rich_Documents" target="_blank">The Ohio State University</a>
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    <img src="assets/laddernet_workflow.jpg" alt="Laddernet Workflow" width="100" height="50" style="vertical-align:bottom">
+  #quote: >
+  #  <img src="assets/laddernet_workflow.jpg" alt="Laddernet Workflow" width="100" height="50" style="vertical-align:bottom">
   description: | # this will include new lines to allow paragraphs
+    <img src="assets/laddernet_workflow.jpg" alt="Laddernet Workflow" width="250" height="150" style="vertical-align:bottom">
+    
     Description about the work on/with the project

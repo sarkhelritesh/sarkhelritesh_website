@@ -4,6 +4,7 @@
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   #quote: >
   #  <img src="assets/laddernet_workflow.jpg" alt="Laddernet Workflow" width="100" height="50" style="vertical-align:bottom">
-  description: <img src="assets/laddernet_workflow.jpg" alt="Laddernet Workflow" width="450" height="250" align="center>
+  description: 
+  <img src="assets/laddernet_workflow.jpg" alt="Laddernet Workflow" width="450" height="250" align="center>
   
  

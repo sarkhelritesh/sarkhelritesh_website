@@ -3,6 +3,6 @@
   #link: <a href="www.researchgate.net/publication/333859687_Visual_Segmentation_for_Information_Extraction_from_Heterogeneous_Visually_Rich_Documents" target="_blank">The Ohio State University</a>
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
-    <img src="assets/laddernet_workflow.pdf" alt="Smiley face" width="200" height="150" style="vertical-align:bottom">
+    <img src="assets/laddernet_workflow.pdf" alt="Laddernet Workflow" width="500" height="300" style="vertical-align:bottom">
   description: | # this will include new lines to allow paragraphs
     Description about the work on/with the project

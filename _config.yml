@@ -48,7 +48,7 @@ about_profile_image: assets/ritesh.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! I am a PhD student in the Department of Computer Science and Engineering at <a href="https://cse.osu.edu"><mark>The Ohio State University</mark></a>. I work with <a href="http://arnab.org"><mark>Prof. Arnab Nandi</mark></a> in the Interactive Data Systems Laboratory.
   
-  I worry about intelligent interactive systems in <a href="https://medium.com/@karpathy/software-2-0-a64152b37c35"><u><font color="#000000">Software 2.0</font></u></a>. My research spans problems related to Information Extraction, Document Intelligence, and Text Mining.
+  My primary research focus is building interactive systems in <a href="https://medium.com/@karpathy/software-2-0-a64152b37c35"><u><font color="#000000">Software 2.0</font></u></a>, spanning from problems related to Information Extraction, Document Intelligence, and Text Mining.
   
 
 # Projects Section

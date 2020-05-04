@@ -3,7 +3,7 @@
   #link: <a href="www.researchgate.net/publication/333859687_Visual_Segmentation_for_Information_Extraction_from_Heterogeneous_Visually_Rich_Documents" target="_blank">The Ohio State University</a>
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: 
-    <img src="assets/laddernet_workflow.jpg" alt="Laddernet Workflow" width="500" height="190" style="align:center">
+    <img src="assets/laddernet_workflow.jpg" alt="Laddernet Workflow" width="500" height="170" style="align:center">
   description: A visually rich document refers to a structured or semi-structured document where visual features play an important role in semantics. We propose a fast, multi-scale classifier for such documents. For fast inference, we define an attention-like operator that extracts visual features from a hierarchical abstraction defined using the layout hierarchy of each document. Discriminative features are extracted using a depth-separable convolutional network leveraging this hierarchical construct. We obtained state-of-the-art results on multiple benchmark datasets.<br/><br/> <strong>Authors:</strong> Ritesh Sarkhel, Arnab Nandi <br/> <strong>Full-text</strong> -- <a href="https://github.com/sarkhelritesh/sarkhelritesh.github.io/blob/master/papers/ladderNet.pdf">here</a>, <strong>Slides</strong> -- <a href="https://github.com/sarkhelritesh/sarkhelritesh.github.io/blob/master/slides/ladderNet_PPT.pdf">here</a>
   
 - layout: top-middle

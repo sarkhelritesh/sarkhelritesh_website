@@ -51,6 +51,11 @@ about_content: | # this will include new lines to allow paragraphs
   I build intelligent systems for interactive data exploration and retrieval in <a href="https://medium.com/@karpathy/software-2-0-a64152b37c35"><u><font color="#000000">Software 2.0</font></u></a>. I am most excited by problems related to Information Extraction, Text Mining, and Pattern Recognition.
   
 
+  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+    - Lists
+    - Tables
+    - Images
+
 # Projects Section
 projects_title: Selected Publications #(Use this to override about projects section title)
 

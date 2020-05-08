@@ -63,8 +63,8 @@ more_content: | # this will include new lines to allow paragraphs
 projects_title: Selected Publications #(Use this to override about projects section title)
 
 # Experience Section
-background_title: Background and Experience#(Use this to override about experience section title)
-more_background: Before graduate school, I was a part of the <a href="http://www.jaduniv.edu.in/view_department.php?deptid=59">CMATER Research Laboratory</a> at Jadavpur University, India, where I was part of an effort towards developing cost-effective optical character recognition systems for popular Indian scripts. Some of our findings can be found <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320316300437"><u>here</u></a> and <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320317302200"><u>here</u></a>. I was also a part of a research and development group in Samsung Research Institute for more than two years.<br/> I have been a secondary reviewer for conferences such as The Web Conference and SIGMOD. I have also served as a reviewer for multiple journals including IEEE Transactions on Multimedia, Soft Computing, and IEEE Access.    
+background_title: Background and Experience #(Use this to override about experience section title)
+more_background: Before graduate school, I was a part of the <a href="http://www.jaduniv.edu.in/view_department.php?deptid=59">CMATER Research Laboratory</a> at Jadavpur University, India, where I was part of an effort towards developing cost-effective optical character recognition systems for popular Indian scripts. Some of our findings can be found <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320316300437"><u>here</u></a> and <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320317302200"><u>here</u></a>. I was a part of a research and development group at Samsung Research Institute for more than two years.<br/><br/> I have served as a reviewer for multiple journals including IEEE Transactions on Multimedia, Soft Computing, and IEEE Access. I have also been a secondary reviewer for conferences such as The Web Conference and SIGMOD.    
 
 
 

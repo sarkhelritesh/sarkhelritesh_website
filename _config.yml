@@ -72,7 +72,7 @@ more_background: Before graduate school, I was a part of the <a href="http://www
 # education_title: Education #(Use this to override about education section title)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)

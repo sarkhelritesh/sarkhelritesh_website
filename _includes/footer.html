@@ -1,7 +1,9 @@
 <div class="container footer-container">
   <p>
+    {{ site.name | escape }} -
+    <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
     {%- if site.footer_show_references -%}
-      &nbsp;- {{ site.references_title | default: '''..take life the way it comes at you and make the best of it''', Yann Martel }}
+      &nbsp;- {{ site.references_title | default: "References on request" }}
     {%- endif -%}
   </p>
 </div>

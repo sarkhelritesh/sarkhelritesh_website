@@ -48,7 +48,7 @@ about_profile_image: assets/ritesh.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! I am a PhD student in the Department of Computer Science and Engineering at The Ohio State University. I am grateful to be working with <a href="http://arnab.org"><u>Prof. Arnab Nandi</u></a> and be a part of the <a href="https://interact.osu.edu"><u>Interactive Data Systems Laboratory</u></a>.<br/><br/>
   
-  <strong>Research Interest: </strong>I build intelligent systems to empower interactive data exploration and retrieval. I am most excited about problems related to <mark>Information Extraction</mark>, <mark>Multimodal Content Analysis</mark> & <mark>Pattern Recognition</mark>. An exhaustive list of my publications can be found in <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>Google Scholar</u></a> and <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>CV</u></a>.
+  <strong>Research Interest: </strong>I build intelligent systems to empower interactive data exploration and retrieval. I am most excited about problems related to <mark>Information Extraction</mark>, <mark>Multimodal Content Analysis</mark> & <mark>Pattern Recognition</mark>. An exhaustive list of my publications can be found in <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>Google Scholar</u></a> and my <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>CV</u></a>.
 
 # More Section
 more_title: News #(Use this to override about more section title)
@@ -64,7 +64,7 @@ projects_title: Selected Publications #(Use this to override about projects sect
 
 # Experience Section
 background_title: Background and Experience #(Use this to override about experience section title)
-more_background: Before graduate school, I was a part of the <a href="http://www.jaduniv.edu.in/view_department.php?deptid=59">CMATER Research Laboratory</a> at Jadavpur University, India, where I was part of an effort towards developing cost-effective optical character recognition systems for popular Indian scripts. Some of our findings can be found <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320316300437"><u>here</u></a> and <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320317302200"><u>here</u></a>. I was a part of a research and development group at Samsung Research Institute for more than two years.<br/><br/> I have served as a reviewer for multiple journals including IEEE Transactions on Multimedia, Soft Computing, and IEEE Access. I have also been a secondary reviewer for conferences such as The Web Conference and SIGMOD.    
+more_background: Before graduate school, I was a part of the <a href="http://www.jaduniv.edu.in/view_department.php?deptid=59"><u>CMATER Research Laboratory</u></a> at Jadavpur University, India, where I was part of an effort towards developing cost-effective optical character recognition systems for popular Indian scripts. Some of our findings can be found <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320316300437"><u>here</u></a> and <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320317302200"><u>here</u></a>. I was a part of a research and development group at Samsung Research Institute for more than two years.<br/><br/> I have served as a reviewer for multiple journals including IEEE Transactions on Multimedia, Soft Computing, and IEEE Access. I have also been a secondary reviewer for conferences such as The Web Conference and SIGMOD.    
 
 
 

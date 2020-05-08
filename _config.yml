@@ -50,6 +50,15 @@ about_content: | # this will include new lines to allow paragraphs
   
   I build intelligent systems for interactive data exploration and retrieval in <a href="https://medium.com/@karpathy/software-2-0-a64152b37c35"><mark>Software 2.0</mark></a>. I am most excited about problems related to Multimodal Content Analysis, Information Extraction and Natural Language Processing. An exhaustive list of my publications can be found in <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>Google Scholar</u></a> and my <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>CV</u></a>.
 
+# More Section
+more_title: News #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  - <strong>10/2019:</strong> I am grateful to be nominated for the IBM PhD Fellowship Award, 2020 
+  - <strong>08/2019:</strong> Our paper has been accepted in the main track of the IJCAI Conference, 2019 !
+  - <strong>06/2019:</strong> Our paper is accepted in the SIGMOD Conference, 2019 !
+  - <strong>01/2018:</strong> I will start as a Graduate Research Associate in the Deparment of Computer Science and Engineering under the supervision of Prof. Arnab Nandi
+  - <strong>08/2016:</strong> I am a Graduate Teaching Associate of CSE-2431 (Systems II) in the Department of Computer Science and Engineeirng
+
 # Projects Section
 projects_title: Selected Publications #(Use this to override about projects section title)
 
@@ -60,15 +69,6 @@ more_background: blah blah background
 # Education Section
 # education_title: Education #(Use this to override about education section title)
 
-# More Section
-more_title: News #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  - <strong>10/2019:</strong> I am grateful to be nominated for the IBM PhD Fellowship Award, 2020 
-  - <strong>08/2019:</strong> Our paper has been accepted in the main track of the IJCAI Conference, 2019 !
-  - <strong>06/2019:</strong> Our paper is accepted in the SIGMOD Conference, 2019 !
-  - <strong>01/2018:</strong> I will start as a Graduate Research Associate in the Deparment of Computer Science and Engineering under the supervision of Prof. Arnab Nandi
-  - <strong>08/2016:</strong> I am a Graduate Teaching Associate of CSE-2431 (Systems II) in the Department of Computer Science and Engineeirng
-  
 # Footer
 footer_show_references: true
 

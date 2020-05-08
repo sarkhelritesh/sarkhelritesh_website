@@ -46,7 +46,7 @@ google_analytics: "UA-165274113-1"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/ritesh.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello! I am a PhD student in the Department of Computer Science and Engineering at <a href="https://cse.osu.edu"><mark>The Ohio State University</mark></a>. I am grateful to be working with <a href="http://arnab.org"><mark>Prof. Arnab Nandi</mark></a>.
+  Hello! I am a PhD student in the Department of Computer Science and Engineering at <a href="https://cse.osu.edu"><mark>The Ohio State University</mark></a>. I am grateful to be a part of the <a href="https://interact.osu.edu">Interactive Data Systems Laboratory</a> working with <a href="http://arnab.org"><mark>Prof. Arnab Nandi</mark></a>.
   
   I build intelligent systems for interactive data exploration and retrieval in <a href="https://medium.com/@karpathy/software-2-0-a64152b37c35"><mark>Software 2.0</mark></a>. I am most excited about problems related to Multimodal Content Analysis, Information Extraction and Natural Language Processing. An exhaustive list of my publications can be found in <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>Google Scholar</u></a> and my <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>CV</u></a>.
 
@@ -64,7 +64,7 @@ projects_title: Selected Publications #(Use this to override about projects sect
 
 # Experience Section
 background_title: Background and Experience #(Use this to override about experience section title)
-more_background: I am a part of the <a href="https://interact.osu.edu">Interactive Data Systems Laboratory</a> in the Department of Computer Science and Engineering. Before graduate school, I was a part of the CMATER Research Laboratory at Jadavpur University where I was a part of an effort towards developing cost-effective optical character recognition models for Indian languages.     
+more_background: Before graduate school, I was a part of the CMATER Research Laboratory at Jadavpur University where I was a part of an effort towards developing cost-effective optical character recognition models for Indian languages.     
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)

@@ -48,7 +48,7 @@ about_profile_image: assets/ritesh.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! I am a PhD student in the Department of Computer Science and Engineering at The Ohio State University. I am grateful to be working with <a href="http://arnab.org"><u>Prof. Arnab Nandi</u></a> and be a part of the <a href="https://interact.osu.edu"><u>Interactive Data Systems Laboratory</u></a>.<br/><br/>
   
-  <strong>Research Interest: </strong>I build intelligent systems for interactive data exploration and retrieval in <a href="https://medium.com/@karpathy/software-2-0-a64152b37c35">Software 2.0</a>. I am excited about problems related to <mark>Multimodal Content Analysis</mark>, <mark>Information Extraction</mark> & <mark>Natural Language Processing</mark>. An exhaustive list of my publications can be found in <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>Google Scholar</u></a> and my <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>CV</u></a>.
+  <strong>Research Interest: </strong>I build intelligent systems for interactive data exploration and retrieval in <a href="https://medium.com/@karpathy/software-2-0-a64152b37c35">Software 2.0</a>. I am excited about problems related to <mark>Multimodal Content Analysis</mark>, <mark>Information Extraction</mark> & <mark>Natural Language Processing</mark>.<br/> An exhaustive list of my publications can be found in <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>Google Scholar</u></a> and <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>CV</u></a>.
 
 # More Section
 more_title: News #(Use this to override about more section title)

@@ -48,7 +48,7 @@ about_profile_image: assets/ritesh.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello! I am a PhD student in the Department of Computer Science and Engineering at The Ohio State University. I am grateful to be advised by <a href="http://arnab.org"><u>Prof. Arnab Nandi</u></a>.<br/><br/>
   
-  <strong>Research Interest: </strong>I build intelligent systems for interactive querying, enrichment and understanding of multimodal data. I am most excited about problems related to <mark>Information Extraction</mark>, <mark>Visuo-linguistics</mark>, and <mark>Pattern Recognition</mark>. An exhaustive list of my publications can be found in my <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>Google Scholar</u></a>.
+  <strong>Research Interest: </strong>I build intelligent systems for interactive querying, enrichment and understanding of multimodal data. I am most excited about problems related to <mark>Information Extraction</mark>, <mark>Visuo-linguistics</mark>, and <mark>Pattern Recognition</mark>. An exhaustive list of my publications can be found in <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>Google Scholar</u></a>.
 
 # More Section
 more_title: News #(Use this to override about more section title)

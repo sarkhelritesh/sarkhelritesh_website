@@ -11,7 +11,7 @@
   #link: <a href="www.researchgate.net/publication/333859687_Visual_Segmentation_for_Information_Extraction_from_Heterogeneous_Visually_Rich_Documents" target="_blank">The Ohio State University</a>
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: 
-    <img src="assets/segment_select_workflow.jpg" alt="Segment-Select Workflow" width="500" height="200" style="align:center">
+    <img src="assets/segment_select_workflow.jpg" alt="Segment-Select Workflow" width="500" height="170" style="align:center">
   description: We hypothesize that every visually rich document is comprised of a set of isolated, semantically coherent areas called logical blocks. We propose VS2, a divide-and-conquer approach for information extraction leveraging this bag-of-logical-blocks representation. To mitigate the dependency on expensive gold-standard annotations, we train the extractors on a text corpus following a distance supervision approach. The end-to-end workflow starting from deriving the logical blocks to extracting named entities does not utilize any document type or format specific features, making our method robust towards heterogeneous documents.<br/><br/> <strong>Conference:</strong> International Conference on Management of Data (SIGMOD), 2019 <br/> <strong>Authors:</strong> Ritesh Sarkhel, Arnab Nandi <br/> <strong>Full-text</strong> -- <a href="https://github.com/sarkhelritesh/sarkhelritesh.github.io/blob/master/papers/segment_Select.pdf"><u>here</u></a>, <strong>Slides</strong> -- <a href="https://github.com/sarkhelritesh/sarkhelritesh.github.io/blob/master/slides/segment_Select_PPT.pdf"><u>here</u></a>.
   
   

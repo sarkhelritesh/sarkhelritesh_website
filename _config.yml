@@ -53,6 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: News #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
+  - <strong>10/2019:</strong> Our long paper on length controlled summarization has been accepted in COLING 2020 !
   - <strong>10/2019:</strong> I am grateful to be nominated for the IBM PhD Fellowship Award, 2020 
   - <strong>08/2019:</strong> Our paper has been accepted in the main track of the IJCAI Conference. See you in Macao !
   - <strong>06/2019:</strong> Our paper is accepted in research-paper track in the SIGMOD Conference !

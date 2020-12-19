@@ -46,7 +46,7 @@ google_analytics: "UA-165274113-1"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/ritesh.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hello! I am a PhD student in the Department of Computer Science and Engineering at The Ohio State University. I am grateful to be advised by <a href="http://arnab.org"><u>Prof. Arnab Nandi</u></a>. I develop tools and algorithms for controllable optimization, enrichment, and information extraction from multimodal data. An exhaustive list of my publications can be found in <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>Google Scholar</u></a>.
+ Hello! I am a PhD student in the Department of Computer Science and Engineering at The Ohio State University. I am grateful to be advised by <a href="http://arnab.org"><u>Prof. Arnab Nandi</u></a>. I develop tools and algorithms for information extraction from and controllable optimization/enrichment of multimodal data. An exhaustive list of my publications can be found in <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>Google Scholar</u></a>.
   
 # More Section
 more_title: News #(Use this to override about more section title)

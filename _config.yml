@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: News #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - <strong>12/2020:</strong> New findings from our ongoing effort on IE from Visually Rich Docuents to appear in VLDB 2021! Preprint coming soon!
+  - <strong>12/2020:</strong> Our work on multimodal IE from Visually Rich Docuents will appear in VLDB 2021! Preprint coming soon!
   - <strong>10/2020:</strong> Our paper has been accepted in COLING 2020!
   - <strong>10/2019:</strong> I am grateful to be nominated for the IBM PhD Fellowship Award, 2020 
   - <strong>08/2019:</strong> Our paper has been accepted in the main track of the IJCAI Conference. See you in Macao!

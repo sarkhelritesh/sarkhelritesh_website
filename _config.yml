@@ -46,16 +46,16 @@ google_analytics: "UA-165274113-1"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/ritesh.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hello! I am a PhD student in the Department of Computer Science and Engineering at The Ohio State University. I am grateful to be advised by <a href="http://arnab.org"><u>Prof. Arnab Nandi</u></a>. I develop tools and algorithms for information extraction from, and controllable optimization & enrichment of multimodal data. An exhaustive list of my publications is <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>here</u></a>.
+ Hello! I am a PhD student in the Department of Computer Science and Engineering at The Ohio State University. I am grateful to be advised by <a href="http://arnab.org"><u>Prof. Arnab Nandi</u></a>. I develop tools and algorithms for information extraction from, and controllable optimization & enrichment of multimodal data. An exhaustive list of my publications can be found <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>here</u></a>.
   
 # More Section
 more_title: News #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - <strong>12/2020:</strong> New findings on our ongoing effort on IE from multimodal documents to appear in VLDB 2021! Preprint coming soon!
+  - <strong>12/2020:</strong> New findings from our ongoing effort on IE from multimodal documents to appear in VLDB 2021! Preprint coming soon!
   - <strong>10/2020:</strong> Long paper on controllable summarization accepted in COLING 2020! To Gathertown we go!
   - <strong>10/2019:</strong> I am grateful to be nominated for the IBM PhD Fellowship Award, 2020 
   - <strong>08/2019:</strong> Our paper is accepted in the main track of the IJCAI Conference. See you in Macao!
-  - <strong>06/2019:</strong> One paper accepted in the research-paper track of the SIGMOD Conference!
+  - <strong>06/2019:</strong> Our paper is accepted in the research-paper track of the SIGMOD Conference!
   - <strong>01/2018:</strong> I will start as a Graduate Research Associate in the Deparment of Computer Science and Engineering under the supervision of Prof. Arnab Nandi <br/><br/>
 
 # Projects Section

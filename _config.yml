@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: News #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   - <strong>12/2020:</strong> New findings from our ongoing effort on IE from multimodal documents to appear in VLDB 2021! Preprint coming soon!
-  - <strong>10/2020:</strong> Long paper on controllable summarization accepted in COLING 2020! To Gathertown we go!
+  - <strong>10/2020:</strong> Long paper on controllable text summarization accepted in COLING 2020! To Gathertown we go!
   - <strong>10/2019:</strong> I am grateful to be nominated for the IBM PhD Fellowship Award, 2020 
   - <strong>08/2019:</strong> Our paper is accepted in the main track of the IJCAI Conference. See you in Macao!
   - <strong>06/2019:</strong> Our paper is accepted in the research-paper track of the SIGMOD Conference!

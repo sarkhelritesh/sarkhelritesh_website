@@ -1,3 +1,13 @@
+
+- layout: top-middle
+  #name: Deterministic Routing between Layout Abstractions for Multi-Scale Classification of Visually Rich Documents <br/><br/>
+  #link: <a href="www.researchgate.net/publication/333859687_Visual_Segmentation_for_Information_Extraction_from_Heterogeneous_Visually_Rich_Documents" target="_blank">The Ohio State University</a>
+  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  #quote: 
+   #<img src="assets/laddernet_workflow.jpg" alt="Laddernet Workflow" width="500" height="170" style="align:center">
+  description: <strong>C4. Improving Information Extraction from Visually Rich Documents using Visual Span Representations</strong><br/> <strong>TLDR:</strong> <br/><br/> <strong>Conference:</strong> 47th International Conference on Very Large Data Bases (VLDB), 2021 <br/> <strong>Authors:</strong> Ritesh Sarkhel, Arnab Nandi <br/> <strong>Full-text</strong> -- [coming soon]<br/><br/>
+
+
 - layout: top-middle
   #name: Deterministic Routing between Layout Abstractions for Multi-Scale Classification of Visually Rich Documents <br/><br/>
   #link: <a href="www.researchgate.net/publication/333859687_Visual_Segmentation_for_Information_Extraction_from_Heterogeneous_Visually_Rich_Documents" target="_blank">The Ohio State University</a>

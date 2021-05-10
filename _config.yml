@@ -46,7 +46,7 @@ google_analytics: "UA-165274113-1"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: assets/ritesh.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hello! I am a PhD student in the Department of Computer Science and Engineering at The Ohio State University. I am grateful to be advised by <a href="http://arnab.org"><u>Prof. Arnab Nandi</u></a>. I develop tools and algorithms for information extraction from, and controllable optimization & enrichment of multimodal data. An exhaustive list of my publications can be found <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>here</u></a>. <br/><br/> One of my current research focus is Visually Rich Documents. You can find an annotated bibliography of interesting works covering various tasks related to Visually Rich Documents that I regularly refer to <a href="https://github.com/sarkhelritesh/vrd_resource"><u>here</u></a>. 
+ Hello! I am a PhD student in the Department of Computer Science and Engineering at The Ohio State University. I am grateful to be advised by <a href="http://arnab.org"><u>Prof. Arnab Nandi</u></a>. I develop tools and algorithms for information extraction from, and controllable optimization & enrichment of multimodal data. An exhaustive list of my publications can be found <a href="https://scholar.google.com/citations?user=6FE__csAAAAJ&hl=en"><u>here</u></a>. <br/><br/> One of my current research focus is Visually Rich Documents (VRD). Find an annotated bibliography of interesting works on various tasks related to VRD that I regularly refer to <a href="https://github.com/sarkhelritesh/vrd_resource"><u>here</u></a>. 
  
   
 # More Section

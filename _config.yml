@@ -51,12 +51,12 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: News #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
+  - <strong>04/2021:</strong> I am a Ph.D. candidate!! I am extemely grateful to the committee for their feedback 
+  - <strong>04/2021:</strong> I was one of the two students invited from the Department of CSE to present at Hayes Research Forum, 2021! 
   - <strong>12/2020:</strong> New findings from our ongoing effort on IE from multimodal documents to appear in VLDB 2021!
   - <strong>10/2020:</strong> Long paper on controllable text summarization accepted in COLING 2020! To Gathertown we go!
   - <strong>10/2019:</strong> I am grateful to be nominated for the IBM PhD Fellowship Award, 2020 
-  - <strong>08/2019:</strong> Our paper is accepted in the main track of the IJCAI Conference. See you in Macao!
-  - <strong>06/2019:</strong> Our paper is accepted in the research-paper track of the SIGMOD Conference!
-  - <strong>01/2018:</strong> I will start as a Graduate Research Associate in the Deparment of Computer Science and Engineering under the supervision of Prof. Arnab Nandi <br/><br/>
+  - <strong>08/2019:</strong> Our paper is accepted in the main track of the IJCAI Conference. See you in Macao!<br/><br/>
 
 # Projects Section
 projects_title: Selected Publications #(Use this to override about projects section title)

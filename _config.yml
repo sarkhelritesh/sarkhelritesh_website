@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: News #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - <strong>12/2021:</strong> I spent Fall '21 as a Research Intern at Google!
+  - <strong>12/2021:</strong> I spent Fall '21 as a Research Intern at Google AI!
   - <strong>08/2021:</strong> I spent Summer '21 as an Applied Scientist Intern at Amazon Science!
   - <strong>04/2021:</strong> I am a Ph.D. candidate now!!  
   - <strong>04/2021:</strong> I was invited to present at The 35th Hayes Research Forum, 2021! 
